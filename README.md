@@ -1,10 +1,11 @@
 # Introduce Myself
 
-<p align="center" style="font-size:30>
-    <Strong>Introduction
-    </Strong>
+
+<p align="center" style="font-size:150px">
+    <Strong>Introduction</Strong>
 </p>
 
+                         
 <!--자기소개-->
 <p align="center">
     <Strong>자기 소개</Strong><br>
