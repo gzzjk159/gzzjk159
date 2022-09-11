@@ -1,6 +1,9 @@
 # Introduce Myself
 
-* ## Introduction
+<p align="center" style="font-size:30>
+    <Strong>Introduction
+    </Strong>
+</p>
 
 <!--자기소개-->
 <p align="center">
