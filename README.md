@@ -1,7 +1,7 @@
 # Introduce Myself
 
 
-<p align="center" style="font-size:150px">
+<p align="center" style="font-size:100px">
     <Strong>Introduction</Strong>
 </p>
 
