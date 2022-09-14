@@ -39,7 +39,7 @@
 
 <br>
 
-## Skill
+## Skills
 
 <!--Skill-->
 <p>
