@@ -10,13 +10,16 @@
 <br>
     
 ### Infomation
-<br>
 
 <!--이메일-->
-<p align="center">
-    <Strong>E-Mail</Strong><br>
-    <img src="https://img.shields.io/badge/gzzjk159@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/gzzjk159@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
+<p>
+  <h4><strong>Mail</strong></h4>
+  <ul>
+    <li>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> : gzzjk159@gmail.com</a></li>
+    <li>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"> : gzzjk159@naver.com</a></li>
+  </ul>
 </p>
 <br>
 
@@ -54,6 +57,7 @@
 
 &emsp;
 &nbsp;
+
 <div align=center>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzzjk159&show_icons=true)](https://github.com/gzzjk159/github-readme-stats)
