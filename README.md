@@ -1,16 +1,15 @@
-<h1 align="center">welcome</h1>
+# welcome
 
 <br>
 
-<h2 align="center">Introduction</h2>
+### Introduction
                  
 <!--자기소개-->
-<p align="center"">
-    안녕하세요. 백엔드 개발자가 되고 싶은 이주명입니다.<br>
-    1일 1커밋을 하면서 꾸준한 개발자가 되기 위해 공부중입니다.
-<br><br>
+* ##### 안녕하세요. 백엔드 개발자가 되고 싶은 이주명입니다.<br>
+* ##### 1일 1커밋을 하면서 꾸준한 개발자가 되기 위해 공부중입니다.
+<br>
     
-<h2 align="center">Infomation</h2>
+### Infomation
 <br>
 
 <!--이메일-->
@@ -22,10 +21,14 @@
 <br>
 
 <!--블로그-->
-<p align="center">
-    <Strong>My Blog</Strong><br>
+<p>
     <a href="https://velog.io/@gzzjk159" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+    <ul> 
+      <li> velog 
+      </li> 
+    </ul>
 </p>
+
 <br>
 
 <!--깃허브-->
