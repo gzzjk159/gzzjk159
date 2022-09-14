@@ -32,10 +32,9 @@
     </li>
   </ul>
   <ul>
-    <li>
-    
-    </li> 
-   </ul>
+    <strong>Blog : </strong><a href="https://velog.io/@gzzjk159"> https://velog.io/@gzzjk159</a><br>
+    <strong>Github : </strong><a href="https://github.com/gzzjk15)"> https://github.com/gzzjk159</a>
+  </ul>
 </p>
 
 <br>
