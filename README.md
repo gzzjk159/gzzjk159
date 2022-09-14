@@ -6,37 +6,43 @@
                  
 <!--자기소개-->
 * #### 안녕하세요. 백엔드 개발자가 되고 싶은 이주명입니다.<br>
-* #### 1일 1커밋을 하면서 꾸준한 개발자가 되기 위해 공부중입니다.
+* #### 1일 1커밋을 하면서 꾸준한 개발자가 되기 위해 노력중입니다.
 <br>
     
 ## Infomation
 
 <!--이메일-->
 <p>
-  <h4><strong>Mail</strong></h4>
   <ul>
     <li>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> : gzzjk159@gmail.com</a></li>
-    <li>
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"> : gzzjk159@naver.com</a></li>
+    <h3><strong>Mail</strong></h3>
+    </li>
+  </ul>
+  <ul>
+    <strong>Gmail</strong> : gzzjk159@gmail.com<br>
+    <strong>Naver</strong> : gzzjk159@naver.com
   </ul>
 </p>
-<br>
 
 <!--블로그,깃허브-->
 <p>
-    <a href="https://velog.io/@gzzjk159" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-    <ul> 
-      <li> velog 
-      </li> 
-    </ul>
+  <ul>
+    <li>
+    <h3><strong>Channel</strong></h3>
+    </li>
+  </ul>
+  <ul>
+    <li>
+    
+    </li> 
+   </ul>
 </p>
 
 <br>
 
 <p align="center">
     <Strong>Github</Strong><br>
-    <a href="https://github.com/gzzjk159" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a></p>
+    </p>
 <br>
 
 <!--Skill-->
@@ -56,6 +62,11 @@
 
 &emsp;
 &nbsp;
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+<a href="https://velog.io/@gzzjk159" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="https://github.com/gzzjk159" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
 
 <div align=center>
   
