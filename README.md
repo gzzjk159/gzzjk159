@@ -2,14 +2,14 @@
 
 <br>
 
-### Introduction
+## Introduction
                  
 <!--자기소개-->
-* ##### 안녕하세요. 백엔드 개발자가 되고 싶은 이주명입니다.<br>
-* ##### 1일 1커밋을 하면서 꾸준한 개발자가 되기 위해 공부중입니다.
+* #### 안녕하세요. 백엔드 개발자가 되고 싶은 이주명입니다.<br>
+* #### 1일 1커밋을 하면서 꾸준한 개발자가 되기 위해 공부중입니다.
 <br>
     
-### Infomation
+## Infomation
 
 <!--이메일-->
 <p>
@@ -23,7 +23,7 @@
 </p>
 <br>
 
-<!--블로그-->
+<!--블로그,깃허브-->
 <p>
     <a href="https://velog.io/@gzzjk159" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
     <ul> 
@@ -34,7 +34,6 @@
 
 <br>
 
-<!--깃허브-->
 <p align="center">
     <Strong>Github</Strong><br>
     <a href="https://github.com/gzzjk159" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a></p>
