@@ -37,6 +37,19 @@
   </ul>
 </p>
 
+
+<!--학력-->
+<p>
+  <ul>
+    <li>
+      <h3><strong>Education</strong></h3>
+    </li>
+  </ul>
+  <ul>
+      <strong>안양대학교 컴퓨터공학과 졸업</strong>
+  </ul>
+</p>
+
 <br>
 
 ## Skills
